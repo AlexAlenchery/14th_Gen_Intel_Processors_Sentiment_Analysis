@@ -31,7 +31,7 @@ The datasets are located in the `datasets/` directory in CSV format.
 ## How to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/14th-gen-intel-sentiment-analysis.git
+    git clone https://github.com/AlexAlenchery/14th-gen-intel-sentiment-analysis.git
     ```
 2. Install the required libraries:
     ```bash

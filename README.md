@@ -1,5 +1,4 @@
-# 14th_Gen_Intel_Processors_Sentiment_Analysis
-Sentiment analysis of customer reviews for Intel's 14th generation processors using Python. This project explores sentiment trends, visualizations, and topic modeling to provide insights into consumer feedback. Includes data preprocessing, sentiment scoring, and aspect-based analysis.
+# 14th Gen Intel Sentiment Analysis
 
 ## Project Overview
 This project analyzes customer sentiment for Intel’s 14th generation processors based on customer reviews from various sources. The objective is to extract actionable insights that can help guide product development and marketing strategies.
